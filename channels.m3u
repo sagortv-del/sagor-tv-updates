@@ -68,6 +68,12 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1,Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",বিশ্ব বাংলা ২৪
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",042. NRB HD
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekattor HD 
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
@@ -92,6 +98,12 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga 
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RAJDHANI TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1,G series
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
@@ -140,7 +152,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla",Zee Bangla
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR BANGLA
 http://103.151.60.162:2122/play/a0f5/index.m3u8
@@ -196,6 +207,18 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png", Gold Mines Movie 
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
+http://live.balajibroadband.com:3500/live/476.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold HD
+http://66.102.126.10:8000/play/a00f/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Gold 2 SD
+http://66.102.126.10:8000/play/a00g/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SKY SPORTS FOOTBALL
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 
@@ -234,6 +257,27 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Willow Cricket 2
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Willow Cricket HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Cricbuzz
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY LIV 5
+http://live.balajibroadband.com:3500/live/155.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY LIV 1
+http://live.balajibroadband.com:3500/live/162.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY LIV 2
+http://live.balajibroadband.com:3500/live/891.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY LIV 3
+http://live.balajibroadband.com:3500/live/892.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 2
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
