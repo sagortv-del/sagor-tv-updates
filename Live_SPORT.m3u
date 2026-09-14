@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",SPO: (HD) M+ LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63361.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",SPO: (HD REPUESTO) M+ LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63362.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",SPO: (FHD) M+ LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63363.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="SPORT+",SPO: (FHD REPUESTO) M+ LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63364.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",SPO: (HD) DAZN LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63365.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",SPO: (HD REPUESTO) DAZN LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63366.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",SPO: (FHD) DAZN LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63367.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="SPORT+",SPO: (FHD REPUESTO) DAZN LALIGA
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63368.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="SPORT+",SPO: (FHD) M+ LALIGA TV BAR
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63369.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="SPORT+",SPO: (HD) M+ LALIGA TV BAR
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63370.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",SPO: (HD) M+ LIGA DE CAMPEONES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63371.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",SPO: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63372.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",SPO: (FHD) M+ LIGA DE CAMPEONES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63373.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",SPO: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63374.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="SPORT+",SPO: (SD) M+ LIGA DE CAMPEONES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63375.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",SPO: (HD) DAZN F1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63376.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",SPO: (HD REPUESTO) DAZN F1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63377.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",SPO: (FHD) DAZN F1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63378.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="SPORT+",SPO: (FHD REPUESTO) DAZN F1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63379.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SPORT+",SPO: (HD) DAZN 1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63380.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SPORT+",SPO: (FHD) DAZN 1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63381.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="SPORT+",SPO: (SD) DAZN 1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63382.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="SPORT+",SPO: DAZN 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63383.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="SPORT+",SPO: (FHD) LALIGA TV HYPERMOTION
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63384.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="SPORT+",SPO: LALIGA TV HYPERMOTION
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63385.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="SPORT+",SPO: LALIGA TV HYPERMOTION 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63386.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="SPORT+",SPO: LALIGA TV HYPERMOTION 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63387.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="SPORT+",SPO: (FHD) M+ LALIGA TV 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63388.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="SPORT+",SPO: (HD) M+ LALIGA TV 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63389.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="SPORT+",SPO: (FHD) M+ LALIGA TV 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63390.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="SPORT+",SPO: (HD) M+ LALIGA TV 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63391.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="SPORT+",SPO: M+ LALIGA TV 4
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63392.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="SPORT+",SPO: DAZN LALIGA 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63393.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="SPORT+",SPO: DAZN 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63394.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="SPORT+",SPO: DAZN 4
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63395.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="SPORT+",SPO: (FHD) M+ DEPORTES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63396.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="SPORT+",SPO: (HD) M+ DEPORTES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63397.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="SPORT+",SPO: M+ DEPORTES 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63398.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="SPORT+",SPO: M+ DEPORTES 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63399.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="SPORT+",SPO: M+ DEPORTES 4
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63400.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="SPORT+",SPO: M+ DEPORTES 5
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63401.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="SPORT+",SPO: M+ DEPORTES 6
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63402.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="SPORT+",SPO: M+ DEPORTES 7
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63403.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="SPORT+",SPO: (HD) M+ LIGA DE CAMPEONES 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63404.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="SPORT+",SPO: (FHD) M+ LIGA DE CAMPEONES 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63405.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="SPORT+",SPO: (HD) M+ LIGA DE CAMPEONES 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63406.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="SPORT+",SPO: (FHD) M+ LIGA DE CAMPEONES 3
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63407.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 4
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63408.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 5
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63409.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 6
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63410.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 7
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63411.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 8
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63412.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 9
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63413.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 10
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63414.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 11
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63415.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 12
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63416.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="SPORT+",SPO: M+ LIGA DE CAMPEONES 13
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63417.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="SPORT+",SPO: M+ COPA DEL REY
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63418.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="SPORT+",SPO: M+ GOLF
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63419.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="SPORT+",SPO: M+ GOLF 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63420.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="SPORT+",SPO: EUROSPORT 1
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63421.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="SPORT+",SPO: EUROSPORT 2
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63422.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="SPORT+",SPO: GOL PLAY
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63423.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="SPORT+",SPO: TELEDEPORTE
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63424.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="SPORT+",SPO: BETIS TV
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63425.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="SPORT+",SPO: REAL MADRID TV
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63426.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ubeat.png" group-title="SPORT+",SPO: UBEAT
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63427.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="SPORT+",SPO: RALLY TV
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63428.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="SPORT+",SPO: ESPN DEPORTES
+http://neorcqds.top:8080/live/01673503200974067/277913f8f527/63429.m3u8
