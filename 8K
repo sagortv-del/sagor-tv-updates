@@ -1,0 +1,142 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://204.52.191.254/c/
+Subject: 8K
+Date: Tue, 06 Oct 2026 08:44:04 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt----"
+
+
+------MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt----
+Content-Type: text/html
+Content-ID: <frame-CD1BD3CAE49EB7E6056864AD297030F7@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://204.52.191.254/c/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+<title>8K</title>
+
+
+
+<link type="text/css" rel="stylesheet" href="http://204.52.191.254/c/template/default/load_bar_720.css"><link type="text/css" rel="stylesheet" href="http://204.52.191.254/c/template/default/reset_720.css"><link type="text/css" rel="stylesheet" href="http://204.52.191.254/c/template/default/layer.modal_form_720.css"><link type="text/css" rel="stylesheet" href="http://204.52.191.254/c/template/default/blocking_720.css"></head>
+<body>
+<!--<img src="i/loading_bg.gif" width="0" height="0"/>
+<img src="i/loading.png" width="0" height="0"/>-->
+
+
+<div class="loader" style="display: none;"><div class="loader_bar_bg"><div class="loader_bar" style="width: 0px;"></div></div><div class="loader_log" style="display: none;">append reset<br>append layer.modal_form<br></div></div><div class="pause" style="display: none;"></div><div class="rec_container" style="display: none;"><div class="rec_left"></div><div class="rec_main"></div></div><div class="osd_info" style="display: none;"><div class="osd_info_clock"></div><div class="osd_info_time_shift_mark"></div><div class="osd_info_title"></div><div class="osd_info_logo"></div><div class="osd_info_epg" style="display: none;"></div><div style="display: none;"><div class="pos_bar"><div class="pos_button"></div></div><div class="pos_time"><div class="cur_pos_time"></div><div class="pos_time_separator">/</div><div class="total_pos_time"></div></div><div class="pos_series"></div></div></div><div class="quick_ch_switch" style="display: none;"><div class="quick_ch_input"></div></div><div class="volume" style="display: none;"><div class="volume_bar"><div class="volume_progress"></div></div><div class="volume_off" style="display: none;"></div></div><div class="time_shift_info_container" style="display: none;"><div class="time_shift_info_block">TIME SHIFT</div><div class="time_shift_info_block_right"></div></div><div class="playback_progress_block" style="display: none;"><div class="playback_progress"></div></div><div class="aspect_info_container" style="display: none;"><div class="aspect_block"></div><div class="aspect_block_right"></div></div><div class="cut_off" style="display: none;"><div class="cut_off_text"></div><div class="blocking_buttons"><div class="blocking_account_reboot"><div class="color_btn red"></div> blocking_account_reboot</div></div></div><div class="connection_problem_container" style="display: none;"><div class="connection_problem_block">Connection problem</div></div><div class="authentication_problem_container" style="display: none;"><div class="authentication_problem_block">Authentication problem</div></div></body></html>
+------MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://204.52.191.254/c/template/default/blocking_720.css
+
+@charset "utf-8";
+
+.cut_off { position: absolute; left: 0px; top: 0px; z-index: 1000; width: 1280px; height: 720px; background-image: url("i_720/bg2.png"); }
+
+.cut_off_text { text-align: center; vertical-align: middle; height: 720px; width: 1280px; display: table-cell; font: 45px "trebuchet ms", Arial, Helvetica, sans-serif; color: rgb(255, 255, 255); }
+
+.blocking_buttons { position: absolute; bottom: 100px; right: 100px; }
+
+.blocking_account_info, .blocking_account_payment, .blocking_account_reboot { margin-left: 30px; float: left; color: white; font-size: 24px; }
+
+.blocking_buttons .color_btn, .blocking_buttons .color_btn { width: 27px; height: 27px; border-radius: 17px; border: 2px solid rgb(255, 255, 255); float: left; margin-right: 8px; }
+
+.blocking_buttons .blue { background-color: rgb(48, 110, 255); }
+
+.blocking_buttons .yellow { background-color: rgb(255, 233, 40); }
+
+.blocking_buttons .red { background-color: rgb(255, 59, 36); }
+------MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://204.52.191.254/c/template/default/layer.modal_form_720.css
+
+@charset "utf-8";
+
+.modal_form { position: absolute; left: 50%; top: 50%; border-width: 11px 13px 15px; width: 450px; margin-left: -238px; margin-top: -100px; -webkit-border-image: url("i/modal_bg.png") 11 13 15 fill stretch; }
+
+.modal_form .title { font-size: 30px; color: rgb(0, 40, 100); margin-bottom: 6px; }
+
+.modal_form .text { font-size: 26px; margin-bottom: 3px; border: 5px; -webkit-border-image: url("i/item_bg.png") 5 fill; }
+
+.modal_form .status { position: absolute; top: 3px; right: 5px; font-size: 22px; color: rgb(153, 0, 0); }
+
+.modal_form .item { border-width: 20px 6px; -webkit-border-image: url("i/item_bg.png") 20 6 fill stretch; margin-bottom: 6px; }
+
+.modal_form .item input { float: right; height: 5px; width: 59%; margin-top: -15px; border-width: 13px; -webkit-border-image: url("i/input.png") 13 13 14 fill stretch; border-radius: 15px; }
+
+.modal_form .item input:focus { -webkit-border-image: url("i/input_act.png") 13 13 14 fill stretch; }
+
+.modal_form .label { float: left; font-size: 22px; color: rgb(0, 40, 100); text-shadow: white 1px 1px 1px; line-height: 42px; margin-top: -20px; }
+
+.modal_form .buttons { width: 100%; text-align: right; }
+
+.modal_form .buttons input { background: url("i/btn2.png") right center no-repeat; font-size: 19px; font-weight: bold; text-align: center; color: rgb(255, 255, 255); line-height: 28px; text-shadow: rgb(128, 128, 128) -1px -1px 3px; height: 31px; width: 200px; margin: 0px 4px 0px 10px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; }
+
+.modal_form .buttons input:focus { background: url("i/btn2.png") left center no-repeat; color: rgb(255, 255, 255); text-shadow: rgb(0, 0, 0) -1px -1px 3px; }
+
+.modal_form .form_select { height: 5px; top: -13px; border-width: 13px 13px 14px; float: right; margin-top: -15px; line-height: 2px; overflow: hidden; font-size: 18px; width: 233px !important; -webkit-border-image: url("i/combobox.png") 13 13 14 fill stretch !important; }
+
+.modal_form .form_select.active { -webkit-border-image: url("i/combobox_act.png") 13 13 14 fill stretch !important; }
+
+.modal_form .form_time, .modal_form .form_date { height: 5px; top: -13px; border-width: 13px 13px 14px; float: left; margin-top: -15px; line-height: 10px; margin-right: 10px; font-size: 18px; -webkit-border-image: url("i/input.png") 13 12 14 fill stretch !important; }
+
+.modal_form .form_time.active, .modal_form .form_date.active { -webkit-border-image: url("i/input_act.png") 13 12 14 fill stretch !important; }
+
+.modal_form .form_time.edit, .modal_form .form_date.edit { color: rgb(0, 0, 255); }
+
+.modal_form .form_time .highlight, .modal_form .form_date .highlight { color: rgb(255, 0, 0); }
+
+.modal_form .form_time { width: 45px; }
+
+.modal_form .form_date { width: 88px; }
+
+.modal_form .fixed_container { width: 283px; float: right; }
+
+.modal_form .select_arrow { float: right; font-size: 20px; font-family: "Myriad Pro Cond", serif; position: relative; bottom: 11px; color: rgb(136, 136, 136); height: 40px; width: 10px; padding-right: 2px; }
+
+.modal_form .select_arrow.active { color: rgb(3, 95, 158); }
+
+#local_pvr_confirm { margin-top: -164px; }
+------MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://204.52.191.254/c/template/default/reset_720.css
+
+@charset "utf-8";
+
+@font-face { font-family: Roboto; src: url("fonts/Roboto-Regular.ttf"); font-style: normal; font-weight: normal; }
+
+* { margin: 0px; padding: 0px; }
+
+html { height: 100%; }
+
+body { font-family: Roboto, sans-serif; width: 100%; height: 100%; overflow: hidden; }
+
+img { border-width: medium; border-style: none; border-color: currentcolor; border-image: none; }
+
+input { vertical-align: middle; }
+
+:focus { outline: none; }
+
+.connection_problem_container, .authentication_problem_container { position: absolute; z-index: 1; top: 10px; left: 0px; width: 100%; text-align: center; }
+
+.connection_problem_block, .authentication_problem_block { color: rgb(255, 255, 255); border: 2px solid rgb(178, 34, 34); font-size: 26px; display: inline-block; padding: 3px; border-radius: 3px; }
+------MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://204.52.191.254/c/template/default/load_bar_720.css
+
+@charset "utf-8";
+
+.loader { position: absolute; left: 0px; top: 0px; width: 1280px; height: 720px; background-image: url("i_720/bg2.png"); }
+
+.loader_bar { position: absolute; left: 2px; top: 2px; width: 0px; height: 18px; background-image: url("i_720/loading.png"); }
+
+.loader_bar_bg { position: absolute; left: 514px; top: 349px; width: 252px; height: 22px; background-image: url("i_720/loading_bg.gif"); }
+
+.loader_log { position: absolute; left: 390px; top: 400px; width: 500px; height: 200px; border: 2px solid rgb(255, 255, 255); padding: 3px; border-radius: 5px; overflow: auto; color: rgb(255, 255, 255); font-size: 16px; }
+------MultipartBoundary--3uD3ofe3uI6ySubyBWn60ipFwVFlBOpQHKKqzENcAt------
