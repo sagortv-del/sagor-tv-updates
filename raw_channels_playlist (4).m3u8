@@ -1,0 +1,208 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/guides/bd.epg.xml"
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/9XM_logo.svg/512px-9XM_logo.svg.png" group-title="Others", 9XM MUSIC
+https://tv.moviemasti.net:8443/9XM.MUSIC/index.m3u8?token=b0e9b6bbeb3f6259ae7f5e7d063756e37f24c095-98b00c780024b8c84ccb5db60a78ab22-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/A.SPORTS.HD1787251107.png?v=1" group-title="Sports", A SPORTS HD
+https://tv.moviemasti.net:8443/A.SPORTS.HD/index.m3u8?token=256b38317e7c296cb5a173450f8d0ea12921557d-c459877eae9c7ffda380174d3fb71b9a-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ALJAZEERA.HD1787251303.png?v=1" group-title="English", ALJAZEERA HD
+https://tv.moviemasti.net:8443/ALJAZEERA.HD/index.m3u8?token=6eec6d5dd2f26de62d988e37ab2f3025fa80ae99-9eb4225823446e1f25e86ae41e5bf442-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AND%20FLIX%20HD1745040018.png?v=1" group-title="English", AND FLIX HD
+https://tv.moviemasti.net:8443/AND.FLIX.HD/index.m3u8?token=53f4b5714bdcbb6911e51e80e614b82486e8a022-633a4113ec90ca2d0804c01c7371f315-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AND.PRIVE.HD1787249363.png?v=1" group-title="English", AND PRIVE HD
+https://tv.moviemasti.net:8443/AND.PRIVE.HD/index.m3u8?token=c491c089965b70622fb8230b184fe452f3e6713c-157cecbdb1949548f3e1f5183772cdb2-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ANIMAL.PLANET.HD1787247856.png?v=1" group-title="English", ANIMAL PLANET HD
+https://tv.moviemasti.net:8443/ANIMAL.PLANET.HD/index.m3u8?token=9175f77d7a32c3eda77fcee52f4a89bca9e0cb84-e23ca5a505fa2e14a3d8d7adbdf42876-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ANT.PICTURS.HD1787247141.png?v=1" group-title="Hindi", ANT PICTURS HD
+https://tv.moviemasti.net:8443/ANT.PICTURS.HD/index.m3u8?token=8fddf066fc86a3473a81a0e54c2d42822a4fa42c-7e5ab0f842cf50bc0dcda524f08a3ed2-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ATN.BANGLA.HD1787251520.png?v=1" group-title="Bangla", ATN BANGLA HD
+https://tv.moviemasti.net:8443/ATN.BANGLA.HD/index.m3u8?token=786a4377fa6f3435bc6fadb3e6b8bf1be220cd21-5e46c1009af46476a25c80eee6515cf0-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ATN.NEWS.HD1787250789.png?v=1" group-title="Bangla", ATN NEWS HD
+https://tv.moviemasti.net:8443/ATN.NEWS.HD/index.m3u8?token=a0d8004fb260e7367878baaa16ce35a39ea71a2a-2a26187fdcf8a92d48475470f618f1f0-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/AXN%20HD1745045171.png?v=1" group-title="English", AXN HD
+https://tv.moviemasti.net:8443/AXN.HD/index.m3u8?token=b32eaaf10efbc4bc6c2a9c1c51c8a5d9cc9215d1-6c282e6b0e91a6a3afb6e8743eeab4e0-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BBC.Earth.HD1787251963.png?v=1" group-title="English", BBC Earth HD
+https://tv.moviemasti.net:8443/BBC.Earth.HD/index.m3u8?token=46c276802e1776b407fb74527c0c64cbd8e4ece3-78cc9f0f29179a20c1e77d5d4c112210-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BBC%20NEWS&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", BBC NEWS
+https://tv.moviemasti.net:8443/BBC.NEWS/index.m3u8?token=c2caf0debce40dd06e6aa473ff2d5e6f289766e0-748d8022fc6f537b0c96e4278676a454-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BOISHAKHI1787201225.png?v=1" group-title="Bangla", BOISHAKHI
+https://tv.moviemasti.net:8443/BOISAKHI.TV.HD/index.m3u8?token=5602db5057c22f6e797e3dca7ab9b6049ae14f6e-07246fe01c6aec042e9d8741b7408d69-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/BTV_HD1787200850.png?v=1" group-title="Bangla", BTV HD
+https://tv.moviemasti.net:8443/BTV.HD/index.m3u8?token=bfefe07f39ae88fb91bf400ca4a6ccd7abdc04da-5d3539b5360b6c349917230ceb90905c-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CARTOON_NETW1787203454.png?v=1" group-title="Kids", Cartoon Network
+https://tv.moviemasti.net:8443/CARTON.NETWORK.HD/index.m3u8?token=6e0fc8e0ad101ea58ba6fc8b34329bf37b3ac487-431636094068c64f5cd2acedfec414d7-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.24.HD1787251435.png?v=1" group-title="Bangla", CHANNEL 24 HD
+https://tv.moviemasti.net:8443/CHANNEL.24.HD/index.m3u8?token=2d20a544e1b76043ffc7a0ac0f890f99d8d5f67f-c050b3130dbaa3a3ad0de9e3b818aeeb-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CHANNEL.I.HD1787251478.png?v=1" group-title="Bangla", CHANNEL I HD
+https://tv.moviemasti.net:8443/CHANNEL.I.HD/index.m3u8?token=da5655c3b3230e037b60bd7d20f729d4e01509b8-3aa57e30b9b152aaf5d2e7e3f564a08e-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.BANGLA.CINEMA1787250010.png?v=1" group-title="Bangla", COLORS BANGLA CINEMA
+https://tv.moviemasti.net:8443/COLORS.BANGLA.CINEMA/index.m3u8?token=02ea6a0280e9ff1f070b26e49ca7fd1fd8ae2077-20b03ff6f6cec62b2d2ff286d22fa8a6-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Colors%20Bangla1664976841.png?v=1" group-title="Bangla", COLORS BANGLA HD
+https://tv.moviemasti.net:8443/COLORS.BANGLA.HD/index.m3u8?token=878a8f6088fda6dc757e3833f7784959d9c762f8-812877fa179c251d3e3f6486e70c0569-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/COLORS.CINEPLEX.HD1787247267.png?v=1" group-title="Hindi", COLORS CINEPLEX HD
+https://tv.moviemasti.net:8443/COLORS.CINEPLEX.HD/index.m3u8?token=a5328617f2bcf36a64a4fa1723f52e54007e5b57-9e00d903610f7d6c3bae82f49a69fbb6-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/CloursBangla1787280897.png?v=1" group-title="Bangla", CloursBangla
+https://tv.moviemasti.net:8443/COLORS.HD/index.m3u8?token=e10824b17d57841341a01df256bf1bd79a770686-e4ff806e01aea725f492a5de331037af-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DBC1787200975.png?v=1" group-title="Bangla", DBC
+https://tv.moviemasti.net:8443/DBC.NEWS.HD/index.m3u8?token=7eae6558de01cd86dc20e93d75802e29f384fb20-be78524cb8e6c5ac19e833f69fbc87c6-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DEEPTO%20TV1787199327.png?v=1" group-title="Bangla", DEEPTO TV
+https://tv.moviemasti.net:8443/DEEPTOTV.HD/index.m3u8?token=d4e04d65d254f92d8edb8b48644ddb7ad2b27ab8-d62329b35ee59e997a3f13909eeeb1ba-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DISCOVERY.HD1787247584.png?v=1" group-title="English", DISCOVERY HD
+https://tv.moviemasti.net:8443/DISCOVERY.HD/index.m3u8?token=e451f0ecd2c8aaba6f8e1832536657681266da03-9010bbd72ea5b5d6825d4a57f1aab380-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DURANTA.TV.HD1787251927.png?v=1" group-title="Kids", DURANTA TV HD
+https://tv.moviemasti.net:8443/DURANTA.TV.HD/index.m3u8?token=7b5b264daad5a8755d14e2e16b154cf639e08895-9eeff64e966bab833cdc7bdf63514689-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/DW.NEWS.HD1787250654.png?v=1" group-title="English", DW NEWS HD
+https://tv.moviemasti.net:8443/DW.NEWS.HD/index.m3u8?token=f3fa3fa14358dbff78c4a8f21c3c534a938e7a03-6eeb3212a41fe23bff5bb1980b6258f3-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/EKHON1787246900.png?v=1" group-title="Bangla", EKHON
+https://tv.moviemasti.net:8443/EAKHON.TV.HD/index.m3u8?token=3947cb1af2271c83372a256cc63aad58e77c33fb-15087b5dde26d3513a1c9a4c4d2213b6-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Ekattor1787201833.png?v=1" group-title="Bangla", Ekattor
+https://tv.moviemasti.net:8443/EKATTOR.TV.HD/index.m3u8?token=500905236ad349f9e28e32453259e6fec99ab7f2-eb0035be35bea2f54428e6b0dc652e8f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ENTER10.BANGLA1787251342.png?v=1" group-title="Bangla", ENTER10 BANGLA
+https://tv.moviemasti.net:8443/ENTER10.BANGLA/index.m3u8?token=09a153a96ff9bc63acedf3d5c524dc29c7854cc7-d66e2a243d9bdd331dddc66fd79d2d84-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ETV.BAL.BHARAT1787250391.png?v=1" group-title="Kids", ETV BAL BHARAT
+https://tv.moviemasti.net:8443/ETV.BAL.BHARAT/index.m3u8?token=f79896144e9ebdc16a971ef31bc7229ab48a371f-87fd021bbecdab2e45af5bf7e30c20ab-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ETV1787199496.png?v=1" group-title="Bangla", ETV
+https://tv.moviemasti.net:8443/ETV.BANGLA.HD/index.m3u8?token=83a191bb24bcc0da31f744eb2a9f907ba97d8c22-c2eb17520a4e1d100c682d4f5c87d486-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/EUROSPORTS.HD1787249195.png?v=1" group-title="Sports", EUROSPORTS HD
+https://tv.moviemasti.net:8443/EUROSPORTS.HD/index.m3u8?token=f92202594ae5fbdc0983a47c752b1f0b48e87283-d47355dc522a14acfb939e7670c231f7-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/FAST.SPORTS.HD1787251225.png?v=1" group-title="Sports", FAST SPORTS HD
+https://tv.moviemasti.net:8443/FAST.SPORTS.HD/index.m3u8?token=51aec6b96b19bba4be8a71138377aea46239527b-c372ff5076f33c4ba8d2cafbe248498e-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/GAZI.TV.HD1787250540.png?v=1" group-title="Bangla", GAZI TV HD
+https://tv.moviemasti.net:8443/GAZI.TV.HD/index.m3u8?token=0d78aca9f012cf5ac9e8ad04f4d5eab9083f15a6-d032bdb0d0dd68417b1951af6a4a4853-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/GEO.NEWS.HD1787251006.png?v=1" group-title="Urdu", GEO NEWS HD
+https://tv.moviemasti.net:8443/GEO.NEWS.HD/index.m3u8?token=40f41902398a4bbbcc379005a76d0133147d0200-f69f498cde7e7607e7b6de3e7e0b6a67-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=GOLF%20SPORTS&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Sports", GOLF SPORTS
+https://tv.moviemasti.net:8443/GOLF.SPORTS/index.m3u8?token=3468f74b42b48d8e5001d7accdf8e72f1230d274-fc974fbcd21b6d95269ec669e8b3c926-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/History1787203947.png?v=1" group-title="English", History
+https://tv.moviemasti.net:8443/HISTORY.TV.18.HD/index.m3u8?token=6b797a5eccde2f1614d12f781f2b6da7d11e00fd-1389badabcb93c707727ba37641d6ddf-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/HUM.MASALA.TV1787251053.png?v=1" group-title="Urdu", HUM MASALA TV
+https://tv.moviemasti.net:8443/HUM.MASALA.TV/index.m3u8?token=a62614e9c684640e2deea3e03a32e197e81ef42f-2f469f6893577d60649ed7f1ab3bbfac-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/HUNGAMA1787250329.png?v=1" group-title="Kids", HUNGAMA
+https://tv.moviemasti.net:8443/HUNGAMA/index.m3u8?token=34969c41346fe7fc494b12828ac365cbc6f15d26-3473c5a8aca69ff06c0e30bf5f59ce71-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/INDEPENDENT.TV1787251656.png?v=1" group-title="Bangla", INDEPENDENT TV
+https://tv.moviemasti.net:8443/INDEPENDENT.TV/index.m3u8?token=bf523bfbb87bff5e3638b7446d191ea295021810-cdab89ede4dcd18afefa510bb5520b6f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JALSHA.MOVIES.HD1787247417.png?v=1" group-title="Bangla", JALSHA MOVIES HD
+https://tv.moviemasti.net:8443/JALSHA.MOVIES.HD/index.m3u8?token=8acae09f263e8a85365afba33adb9af71ab7293a-c9fc3c1fa85372d72ebf29cf5712886e-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/JAMUNA.TV1787251696.png?v=1" group-title="Bangla", JAMUNA TV
+https://tv.moviemasti.net:8443/JAMUNA.TV/index.m3u8?token=15b0c8fc3e5e1e36f83db8f87155e151dba6cba1-7217eefa843df2a16d09991e83756420-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=LOVE%20NATURE&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", LOVE NATURE
+https://tv.moviemasti.net:8443/LOVE.NATURE/index.m3u8?token=55ca9f027b7edefa3b91db092a70fe7957d2dd6e-292fb6bdcb50efe6d68c06869acb19e3-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Lotus.TV.HD1787277037.png?v=1" group-title="Bangla", Lotus TV HD
+https://tv.moviemasti.net:8443/Lotus.TV.HD/index.m3u8?token=b0060d81241cd8dd7a9bb8edb719b5c5a4f54c6d-2ee2640d5cbe6d4eb7c122d8fc5032cc-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MADANI.TV.HD1787276847.png?v=1" group-title="Religious", MADANI TV HD
+https://tv.moviemasti.net:8443/MADANI.TV.HD/index.m3u8?token=5c447daf507070ec77c99b2f663796c82495aa7c-3b5f1ed2c3640d7d01a9c55c79549003-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MASRANGA.TV.HD1787251612.png?v=1" group-title="Bangla", MASRANGA TV HD
+https://tv.moviemasti.net:8443/MASRANGA.TV.HD/index.m3u8?token=af987444e23b5ec6c4ebd3f0d48cff54faa9d3cd-2a937dfd93596e32b913a7a38042a515-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MN.PLUS.HD1787248914.png?v=1" group-title="English", MN PLUS HD
+https://tv.moviemasti.net:8443/MN.PLUS.HD/index.m3u8?token=73f1bc820032ec013af27d60a7b02f1518d61e28-421eb82cfdebedfabd08af094b93476c-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MNX.HD1787248731.png?v=1" group-title="English", MNX HD
+https://tv.moviemasti.net:8443/MNX.HD/index.m3u8?token=b25b6b7cbb318cce148bec7c680217586dd26217-0a8328ef119ab8f38bcf3e086fa2336b-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/MOVIES.NOW.HD1787277205.png?v=1" group-title="English", MOVIES NOW HD
+https://tv.moviemasti.net:8443/MOVIES.NOW.HD/index.m3u8?token=d3881b9845d8711831d49926a73c689dd1bf7d3d-417b3c3699b2449efc2960657b427cc2-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MTV_India_logo.svg/512px-MTV_India_logo.svg.png" group-title="Others", MTV INDIA
+https://tv.moviemasti.net:8443/MTV.INDIA/index.m3u8?token=3f98afa9fd9c1e77367b534ac8ecd177f7716155-87e6620137c01ce6aa70f7eabe8786d8-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Music_India_logo.png/512px-Music_India_logo.png" group-title="Others", MUSIC INDIA
+https://tv.moviemasti.net:8443/MUSIC.INDIA/index.m3u8?token=1cf98c31e8310776b5e726d098c7139e65e52baa-7ae4341db85c51db30dff98297a962eb-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NAGORIK.TV.HD1787250507.png?v=1" group-title="Bangla", NAGORIK TV HD
+https://tv.moviemasti.net:8443/NAGORIK.TV.HD/index.m3u8?token=4d827a44095c3769e0008606aa7d400ca89dbe4d-58ae826ea546f7fd0ceb814fd0652c73-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.HD1787247811.png?v=1" group-title="English", NATGEO HD
+https://tv.moviemasti.net:8443/NATGEO.HD/index.m3u8?token=c4926cc0c41699c5cffbf58f4d0368d2da3c355d-35d1ac213a78b4779be00f47457e95ba-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NATGEO.WILD.HD1787247661.png?v=1" group-title="English", NATGEO WILD HD
+https://tv.moviemasti.net:8443/NATGEO.WILD.HD/index.m3u8?token=c7adbb13f656455adaa69dbb1d06738c183bc4fd-6df6babd6efffb21ac3454975ce07ea3-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=NEWS%2024&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", NEWS 24
+https://tv.moviemasti.net:8443/NEWS.24/index.m3u8?token=8317a7514bafd650593c328a34680b98ea3d1650-a2b0aa476510162a70ce2950d7af837d-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NICK1787249933.png?v=1" group-title="Kids", NICK
+https://tv.moviemasti.net:8443/NICK/index.m3u8?token=de9036be3d3748aa690076cb742efcd5031b8214-75fd1399d1f10910023962a1f6b42483-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/NICK.JR1787250430.png?v=1" group-title="Kids", NICK JR
+https://tv.moviemasti.net:8443/NICK.JR/index.m3u8?token=fe02091fe054d79d5e21a5a6ed67f9510755bae9-5e6bb719d1ac3b9f627444b3cd171ad7-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Ntv1664826430.png?v=1" group-title="Bangla", NTV HD
+https://tv.moviemasti.net:8443/NTV.HD/index.m3u8?token=64be800b3791e018a77c0f9bbfea78102cb87453-0a94d5ac136d3eefb33c0990b50cc058-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/PEACE.TV.BANGLA.HD1787277064.png?v=1" group-title="Religious", PEACE TV BANGLA HD
+https://tv.moviemasti.net:8443/PEACE.TV.BANGLA.HD/index.m3u8?token=410f3358c0caf22aa62a3a7a6dc3790d1e880ff3-201bd92877921d61e633943a35f2eb4f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/POGO1787250174.png?v=1" group-title="Kids", POGO
+https://tv.moviemasti.net:8443/POGO/index.m3u8?token=7a118104f5e3bd1b0e8a40f0343182a2a4331eb2-6f3656ba71543d867c48b41b7f8c1e69-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/PTV-SPORTS-HD1787250903.png?v=1" group-title="Sports", PTV SPORTS HD
+https://tv.moviemasti.net:8443/PTV-SPORTS-HD/index.m3u8?token=121fa4d5266f2293dbf80f4ac05723f09eb0eaea-6ba6497946d1eac4b374611267700f7b-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ROMEDY.NOW1787277291.png?v=1" group-title="English", ROMEDY NOW
+https://tv.moviemasti.net:8443/ROMEDY.NOW/index.m3u8?token=c290789ebbbcded4222423455c115ce081de3066-bc92c57e878f71d6e88fef2b3714f942-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SANGEET%20BANG&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Bangla", SANGEET BANGLA
+https://tv.moviemasti.net:8443/SANGEET.BANGLA/index.m3u8?token=962d72dca53329b4dad04d642d057752045cea0f-654c094018096a530855eb5ae1eec5d4-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SOMOY.TV.HD1787251571.png?v=1" group-title="Bangla", SOMOY TV HD
+https://tv.moviemasti.net:8443/SOMOY.TV.HD/index.m3u8?token=0800f108d17ab57cec1af3684cf33d843939acfb-9bbc490bce6b342e5a9aaa80a75799a6-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONIC1787249865.png?v=1" group-title="Kids", SONIC
+https://tv.moviemasti.net:8443/SONIC/index.m3u8?token=2648372a77816b3a6dda623dbf15d8a05e133a44-0d0f16c4c8b6025643098d0ca23933c3-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/sony%20sports%205%20hd.png?v=1" group-title="Sports", SONY SPORTS 5HD
+https://tv.moviemasti.net:8443/SONY-SPORTS.5HD/index.m3u8?token=f708814e08f3b94fe5e1ec9c334149aa6f150e9c-a031f24890e5a376a447d548fb13e344-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.AAT1787249799.png?v=1" group-title="Bangla", SONY AAT
+https://tv.moviemasti.net:8443/SONY.AAT/index.m3u8?token=d8f9c64f878d7edd5e7a9c5437a84ada9635c8da-5a4ca3b31d09b848c65e02f647e2990f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/S_BBC_EARTH1787204265.png?v=1" group-title="English", Sony BBC Earth
+https://tv.moviemasti.net:8443/SONY.BBC.EARTH.HD/index.m3u8?token=bf1ee9f8fe02260092f414ca77120a576252c9b1-8d702e32829fa58d309b1d5135b6df45-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY_ENT1787203266.png?v=1" group-title="Hindi", Sony Entertainment TV
+https://tv.moviemasti.net:8443/SONY.ENT.HD/index.m3u8?token=5fe6d8c1e037bab4993cfe5dcd2856a75cd8fd22-7fe97adf71e19e123dfbc3679925265f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.MAX.HD1787247545.png?v=1" group-title="Hindi", SONY MAX HD
+https://tv.moviemasti.net:8443/SONY.MAX.HD/index.m3u8?token=2d67720200ba9f03c078123f28f72adfaf5f7c94-06685ebf7a61de245750943f751c0672-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.PIX.HD1787248600.png?v=1" group-title="English", SONY PIX HD
+https://tv.moviemasti.net:8443/SONY.PIX.HD/index.m3u8?token=c98e1d15c3f1dde6907a211f1d291cee955c5a25-e4a6c30636335f45348609cb201e4b76-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.1HD1787251839.png?v=1" group-title="Sports", SONY SPORTS 1HD
+https://tv.moviemasti.net:8443/SONY.SPORTS.1HD/index.m3u8?token=9ad4efb71f34f541ac634c861e8e5a687efd372c-b31c34844bae712f3ddbe7c92d8fbe0d-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.31787248363.png?v=1" group-title="Sports", SONY SPORTS 3
+https://tv.moviemasti.net:8443/SONY.SPORTS.3/index.m3u8?token=916a45318b0409f4bb28d7055746a4d15733f4c9-f28e4587f5b6ca793b7493397a02624d-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS.41787251884.png?v=1" group-title="Sports", SONY SPORTS 4
+https://tv.moviemasti.net:8443/SONY.SPORTS.4/index.m3u8?token=9184c943a86d897627aab86b828e31c31dc048fc-e062df790bbc76706edfb854a82e5a1f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.SPORTS2.HD1787248311.png?v=1" group-title="Sports", SONY SPORTS2 HD
+https://tv.moviemasti.net:8443/SONY.SPORTS2.HD/index.m3u8?token=29531fa9128d44cf0314bfaef110c211221f07e4-703494280295a840e427c0ac3b03dc24-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SONY.YAY1787250860.png?v=1" group-title="Kids", SONY YAY
+https://tv.moviemasti.net:8443/SONY.YAY/index.m3u8?token=dcbfc43ea973b93caffd7ec00fe19d54f7cf2b8e-12d39e070efb9588adc960b9ea52a679-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR-SPORTS.31787248490.png?v=1" group-title="Sports", STAR SPORTS 3
+https://tv.moviemasti.net:8443/STAR-SPORTS.3/index.m3u8?token=04c9d698a5b5bad69c5ba68f5c5081eb84b296f4-d36e8ae53adea29e7ab76a29d77ef2a7-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.BHARAT.HD1787250714.png?v=1" group-title="Hindi", STAR BHARAT HD
+https://tv.moviemasti.net:8443/STAR.BHARAT.HD/index.m3u8?token=955250eb4c45c635c182e82e85b0c038096e5885-8eda5f7a68cde09cf5c1493cfb5767b3-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.GOLD.HD1787247495.png?v=1" group-title="Hindi", STAR GOLD HD
+https://tv.moviemasti.net:8443/STAR.GOLD.HD/index.m3u8?token=b55ddf35574982770f2319343f6f3c3f958bdc6e-649ae92f2e702d559222103617e2ad05-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%20SELECT%20HD1745043508.png?v=1" group-title="Hindi", STAR GOLD SEL HD
+https://tv.moviemasti.net:8443/STAR.GOLD.SEL.HD/index.m3u8?token=e0e2a72fb75b18fc74a36192c96473a6d59c96de-264919439cc3d0f43e9ea9fb133c7ffe-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR%20GOLD%202%20HD1745043441.png?v=1" group-title="Hindi", STAR GOLD2 HD
+https://tv.moviemasti.net:8443/STAR.GOLD2.HD/index.m3u8?token=8576053e097280edbd143d20e57a80bbbf599d75-e73f553ff5c9cf53e6820679f02c63d7-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.JALSHA.HD1787248682.png?v=1" group-title="Bangla", STAR JALSHA HD
+https://tv.moviemasti.net:8443/STAR.JALSHA.HD/index.m3u8?token=3189d4075251c9cb5f2594c1178ccb2e74aca690-a03338ee24034f50b24f7542346f7765-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.HD1787277311.png?v=1" group-title="English", STAR MOVIES HD
+https://tv.moviemasti.net:8443/STAR.MOVIES.HD/index.m3u8?token=e73c5960b9dadc9039722fcc02f948f72bcf125f-620c84c62d5c262e887ec8fa80c066d0-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.MOVIES.SEL.HD1787277362.png?v=1" group-title="English", STAR MOVIES SEL HD
+https://tv.moviemasti.net:8443/STAR.MOVIES.SEL.HD/index.m3u8?token=d564f52f63aaab906337b197224db2bc0a9a4f22-6cb4cc0d75083b353c803f1ccf6c4a1f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.PLUS.HD1787247742.png?v=1" group-title="Hindi", STAR PLUS HD
+https://tv.moviemasti.net:8443/STAR.PLUS.HD/index.m3u8?token=8e649e1bcdf7020a1a86a3bf563b39e10e79691b-c7b4161d9193869de9afe7ca786b8721-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS-SEL1.HD1787248189.png?v=1" group-title="Sports", STAR SPORTS SEL1 HD
+https://tv.moviemasti.net:8443/STAR.SPORTS-SEL1.HD/index.m3u8?token=4490da475588f1a71016093cc738745fdb5c0f59-de194b40f0db9ac0fd031fdb2d738e98-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR_SPORTS1787204187.png?v=1" group-title="Sports", STAR SPORTS
+https://tv.moviemasti.net:8443/STAR.SPORTS.SEL.2.HD/index.m3u8?token=7245e282b0454ec39cae754991045314dc061579-ba211c1501ab1d8fd26537277c0c21ef-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS1.HD1787248425.png?v=1" group-title="Sports", STAR SPORTS1 HD
+https://tv.moviemasti.net:8443/STAR.SPORTS1.HD/index.m3u8?token=97af4002b875d4b3a5df49c84fa93a123961904a-5c490ce07aa6340879b319c9003a61d2-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/STAR.SPORTS2.HD1787248269.png?v=1" group-title="Sports", STAR SPORTS2 HD
+https://tv.moviemasti.net:8443/STAR.SPORTS2.HD/index.m3u8?token=a43f418fd6df755c4d94db4070d703f1a383807a-a6909c292181c477f896123397a7aac4-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/S_BANGLA1787204380.png?v=1" group-title="Bangla", Sun Bangla
+https://tv.moviemasti.net:8443/SUN.BANGLA.HD/index.m3u8?token=4ec2fa8ceefff0b4430603b278f39cb061b3e6ad-c3ca534207a427485464a86cccb958c6-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/SUPER.HUNGAMA1787251741.png?v=1" group-title="Kids", SUPER HUNGAMA
+https://tv.moviemasti.net:8443/SUPER.HUNGAMA/index.m3u8?token=1099acccfb25b74d16a068d8dc56bd27ae9af6fe-4dc4a0bd0afd187594cc7a349169ec7f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/T-SPORTS-HD1787252188.png?v=1" group-title="Sports", T SPORTS HD
+https://tv.moviemasti.net:8443/T-SPORTS-HD/index.m3u8?token=fa7d9fd5ff3bdd11487e7ba21e8449585a798c6b-2391f741681d2f06449c4c37fbb8c87a-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/TLC1787203377.png?v=1" group-title="English", TLC
+https://tv.moviemasti.net:8443/TLC.HD/index.m3u8?token=0d8b0bc093aa7edbd0f623c99d25d5158829dc19-a83dbc42c76a20409230cc345730268a-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/TRAVELXP.HD1787252013.png?v=1" group-title="English", TRAVELXP HD
+https://tv.moviemasti.net:8443/TRAVELXP.HD/index.m3u8?token=b12448799994323ea145296f8e703b8f46d4aa3d-36f4b22b0518e197b5e8b797b1493a4d-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=UNITE8%201%20HD&background=0f172a&color=38bdf8&bold=true&size=512&rounded=true" group-title="Others", UNITE8 1 HD
+https://tv.moviemasti.net:8443/UNITE8.1.HD/index.m3u8?token=9a97f9ace29f55585fee44a983f8d4eb7761c549-454f1124692c179f2e1c4f3cfe536a71-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/XPLOR.HD1787276990.png?v=1" group-title="English", XPLOR HD
+https://tv.moviemasti.net:8443/XPLOR.HD/index.m3u8?token=60feb9aaf5755238a4cae66269620ce869fdab3d-123883159309b5d7aef2d3534c6a00f3-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE.BANGLA.CINEMA1787249701.png?v=1" group-title="Bangla", ZEE BANGLA CINEMA
+https://tv.moviemasti.net:8443/ZEE.BANGLA.CINEMA/index.m3u8?token=c1020531993040dc462ad93638aa0546dc95bac5-c979bbf5fc8413047a323f31ac9abf88-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Z_BANGLA1787204320.png?v=1" group-title="Bangla", Zee Bangla
+https://tv.moviemasti.net:8443/ZEE.BANGLA.HD/index.m3u8?token=126824a025559fad8cf0b52f2fffe3a29999285b-af82a44110f1ae820d84b8e1b6f61113-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE%20CAFE%20HD1745040102.png?v=1" group-title="English", ZEE CAFE HD
+https://tv.moviemasti.net:8443/ZEE.CAFE.HD/index.m3u8?token=168defa810ae5edaa8f1b1b81e217484d177e14d-ed11c0b14910bd48b170560d49b02eda-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/Z_CINEMA_HD1787276799.png?v=1" group-title="Hindi", Zee Cinema HD
+https://tv.moviemasti.net:8443/ZEE.CINEMA.HD/index.m3u8?token=fdf53b8926fd2b4585b6708c810915829ffd01d1-f0cfa04e78a820db58cd5ff6c9269b4f-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZEE1787203548.png?v=1" group-title="Hindi", ZEE
+https://tv.moviemasti.net:8443/ZEE.TV.HD/index.m3u8?token=bdc9931d94fcaae685693d923abbacbe3e3f70ad-34ade42825d9a69a2baac75834e0130b-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZING.MUSIC1787250465.png?v=1" group-title="Hindi", ZING MUSIC
+https://tv.moviemasti.net:8443/ZING.MUSIC/index.m3u8?token=ad0e8300dc9f189e8187420fd6aa2f1f507f77a1-e36b20bc66ff6388b549399062010ec5-1791353448-1791309948
+#EXTINF:-1 tvg-logo="https://tv.moviemasti.net/assets/images/ZOOM.MUSIC1787249504.png?v=1" group-title="Hindi", ZOOM MUSIC
+https://tv.moviemasti.net:8443/ZOOM.MUSIC/index.m3u8?token=3cc29ed35b8e8083c24e4c13a607a63704fa08ad-4a15583ae7b17f95d180f5d5cf50383a-1791353448-1791309948
