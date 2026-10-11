@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",Duronto TV
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 group-title="Bangladesh",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Kolkata",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 group-title="Kolkata",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="Kolkata",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 group-title="Kolkata",DD Bangla
+https://cdn-4.pishow.tv/live/37/master.m3u8
+#EXTINF:-1 group-title="Kolkata",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
