@@ -1,0 +1,154 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-logo="https://imgur.com/ocyTxpw.png" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="SunNxt", Sun Bangla
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001454414a47315c27425b17245b6e0950015d001766010c3b020507046c553d5d57016664344807435c6f02594a501762215e235931380954373a162f260a015d57271c324611.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg" group-title="SunNxt", Sun TV HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001451414a47315c27425b17245b6e5a0f530e574b6e0a5c3c065007553c05675951503665694e07425c33005d11001762215e356e171b276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194405" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg" group-title="SunNxt", KTV HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619775a02015c07463c0b0c67560006576a566b5657536767331a05100830555b424b73650278257a00162b6a1c0b3b04014d024956.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194406" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg" group-title="SunNxt", Sun Music HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619255f05025c5c443b0a5839530057506655680a51053230351d5611586e050b434b6b443a7d144b363c2d71373a162f260a015d57271c324611.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194391" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg" group-title="SunNxt", Sun Life
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b26197709010f5f504339065c6d0a0051003955695702053764614e51115e660e09114b6b443a7c085e3a1d3a7c3b3a360f1d0617175f2f56.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194404" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg" group-title="SunNxt", Sun News
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001450414a47315c27425b17245b6e5f0f07085c4b39515e3b0257070a3a0f670a0450676a614e0410566f060c40021762215e2f5d282c276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194407" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" group-title="SunNxt", Adithya TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619750f06530956113b565b6f000004523b566b0e56066564691f50120c375055444b79553d4409413e0b33772a2c113e100d0b5c4a715f2f52.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194390" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg" group-title="SunNxt", Chutti TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619720e52045201473d03593d070005563e566f5a56526b67331d0c435b65030b434b7b59214415510b09276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg" group-title="SunNxt", Sun TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001452414a47315c27425b17245b6e5b03545e01146e015a6e050207513c56665704546366641a01115863530844561762215e356e1d002c7b2a0c31051c1b4154423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=426117d115b04497b0b0d425e8095184:aa751ae8a41ac6f87141734163ffe3b2
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194409" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg" group-title="SunNxt", KTV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619770a53015b00163b070b6e06000300680e395a01526236681f56100a35010e434b736502723e7111000c5b1100274f14130b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ddc14c4da94c079d4f4c343ecdcd80:5701bee4ee9b625d0c8ed7de032a7478
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194410" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Sun Music
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619745303540953443a0a5d3c0a0050503a566c090a516b30694f56475b60010f474b6b443a7d144b363c276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/195490/640x360_GeminiTVHDDolbyVision_195490_d3c4ad05-c328-4dac-8636-39885f54d9aa.jpg" group-title="SunNxt", Gemini TV HD - Dolby Vision
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a0014525b17412a5c314e015a28592c4453015c5d1666505167060c0b0766033d56515a3160681f0d175a6e545b41015b1e13550c51313631633d211d3e302d30505c3b57271818042f.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" group-title="SunNxt", Gemini TV HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a0014525b17412a5c314e015a28592c4453015c5d1666505167060c0b0766033d56515a3160681f0d175a6e545b41015b1e13550c51313631633d211d3e302d30505c3b57271818042f.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="192537" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="SunNxt", Gemini Movies HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619240806525f5c446e52586f000007016d0e6a090b5236353340504259635554164b7f5439590f511230135c101617253b3c26776d365c3b530d5a264625.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" group-title="SunNxt", Gemini Music HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619770a00035955176b075e69020050053a0e675b02066631364a55470f615254474b7f5439590f51122a165c162d1b23262a21665b31563a4e5b193b52.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg" group-title="SunNxt", Gemini Comedy
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619705d01555f551766065a6e500004033d0f680d0600356a624852105e330759444b7f5439590f511c300850111c1d3e302d30505c3b57271818042f.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" group-title="SunNxt", Gemini Life
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619205f54020d52433e0b0a6b010007556c566d5702066a63664f01430f63075a134b7f5439590f5113360350373a162f260a015d57271c324611.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e16421cf7c374c57a8f7e91049f58cd9:b7e01aba2c307b1f05057e91a9d150d2
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194346" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194346/640x360_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" group-title="SunNxt", Kushi TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b26192359025052554a3b0b596f060005013b556f5e0b006a62341857425b67040c414b73442758086c09002c7b2a0c31051c1b4154423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="SunNxt", Gemini TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001457414a47315c27425b17245b6e0a07575d54143e02506e035707576d073e5a51513766354800170a35060e16561776315d0856360b33772a2c113e100d0b5c4a715f2f52.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg" group-title="SunNxt", Gemini Movies
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619770a030f52524b3955586f060055576c55690a0200316b651d02125a62025e404b7f5439590f511230135c10161d3e302d30505c3b57271818042f.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" group-title="SunNxt", Gemini Music
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b26197459540f5f03456f505e3a0400050a6d556d5b0b543566604b071658640f0e164b7f5439590f51122a165c16270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194397" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/195489/640x360_SuryaTVHDDolbyVision_195489_b51cb569-382c-4dc4-b9ec-5c09396ebd2a.jpg" group-title="SunNxt", Surya TV HD - Dolby Vision
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a0014525a17412a5c314e015a28592c4452015a5c143e575b69050202073a526a0d53023764644e0c465c61005a1300001e074513413e0b337d31270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194397" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" group-title="SunNxt", Surya TV HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a0014525a17412a5c314e015a28592c4452015a5c143e575b69050202073a526a0d53023764644e0c465c61005a1300001e074513413e0b337d31270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194385" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg" group-title="SunNxt", Surya Movies
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619245902530e54463c00516a0b0006513b0f3c0c50536566354856170b6e5454104b6b442649007530290c5006270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194338" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg" group-title="SunNxt", Surya Music
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619790804055e571439065c66070056043d0e3e5b035b6b63644c50170865545f454b6b44264900752a2c0c56373a162f260a015d57271c324611.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="193251" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/193251/640x360_SuryaComedy_193251_42e64c54-37bb-4dfd-9c06-20efd79986b3.jpg" group-title="SunNxt", Surya Comedy
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619775e06030e5c406d510e6e040007016c563b5e00513567604d03405965035b134b6b442649007b303200510c270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg" group-title="SunNxt", Kochu
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b261970530f05095c133d04516f050004503d0f6f0e075b676b674a55425e6e520e104b735e3758146c091d3a7c3b3a360f1d0617175f2f56.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194398" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="SunNxt", Surya TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001455414a47315c27425b17245b6e5806005a57136e515a690b5007526e0f3e0e03576566674f00450d62015843511762214218590b09276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
+https://go.skym3u.dev/live/14089/05061048426e1f4e412a2f155810012b001611064b57715334571815224c240f18580e115d29024732534747562d183e5f565363646348061608320f5411500f576306030f683e000743076e021a070e585768043c54445b79021e055f5b340d062b431b70030503006d05700c5a023d3d3515064041265a0c0b085142201e0c0b2a67.m3u8?s=63e6&id=uzuu.m3u
+https://go.skym3u.dev/live/14089/05061048426e1f4e4a3e284b521c1137141b161c5c403c5d3142101a3f1822045b190e0c01375203365e515a1e3d536f571d063a27265646110825190517055c427b5d005131702e743b2b1e2538.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b5f2d0205c4527b7aa3e41f35e1e7f:66ddb1a017753f966e20442ab2f91f18
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194399" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194411/640x360_UdayaTVHDDolbyVision_194411_39d6387e-4ae4-451e-9ab2-0363e6672361.jpg" group-title="SunNxt", Udaya TV HD - Dolby Vision
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a0014525917412a5c314e015a28592c44570e0f574a39025066060050076603690e565462606340074c5660060845075e1e015400413e0b337d31270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b5f2d0205c4527b7aa3e41f35e1e7f:66ddb1a017753f966e20442ab2f91f18
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194399" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg" group-title="SunNxt", Udaya HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a0014525917412a5c314e015a28592c44570e0f574a39025066060050076603690e565462606340074c5660060845075e1e015400413e0b337d31270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4dbffb517824732a955ca02dd6aacd9:83c2aa2946432f1ded7c049efe79feef
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194397" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg" group-title="SunNxt", Udaya Movies
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619700806045e51456d075b3c020002563a566a0b53016230634d07445f6e5354424b6d553549007530290c5006270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ac3472b0040459cab52035ead6fe1ae:ba9fe9dd1b8e5421e2f8c9d23bd86922
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194401" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194401/640x360_UdayaMusic_194401_c6816391-ea32-4780-bf8f-25cb839cef89.jpg" group-title="SunNxt", Udaya Music
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619795b05020952476e0a0c6953005251670e6d5653026761674052100f67505f4b4b6d55354900752a2c0c56373a162f260a015d57271c324611.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71329783aeb74e6e9e1014fb9e4c30f4:1e025a9ed7e50fa35b8de2c96cccdd6b
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194400" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" group-title="SunNxt", Udaya Comedy
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619790a055258014a3b055f665000550a390f6c0e0a506366324d51150a660059464b6d553549007b303200510c270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="SunNxt", Chintu TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00144d1c4c5c314a2b18161b2619240f02555d52133b0a5d6804000751690e6c5903556662344005445f67065a174b7b593d5e154d0b09276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3084683c80234b6bbf69abfd5bb258a0:4ae6b547e5c8f51329a12d7953ee4c72
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="193239" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg" group-title="SunNxt", Udaya TV
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a001456414a47315c27425b17245b6e0e04505853106a57583d5703070467073e5f0652326b364c56425b34555a17521764305118590b09276a3c2b000817070a411c32423b.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194389" tvg-language="Hindi" tvg-logo="https://sund-images.sunnxt.com/194389/640x360_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg" group-title="SunNxt", Sun Neo HD
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00145b414a47315c27425b17245b6e59020e085c403d045b6a030007006a01675954076461321807465b32025d425c1762215e2f5d301721772a2c113e100d0b5c4a715f2f52.m3u8?s=63e6&id=uzuu.m3u
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194387" tvg-language="Marathi" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="SunNxt", Sun Marathi
+https://go.skym3u.dev/live/14089/05061048426e1f4e543629004601173a00145a414a47315c27425b17245b6e0906570a06163a035b3d050007066903675802556067351a56455e330e0c41551762215e2c592d3e115d1c270028373c0657563a4a715b0510.m3u8?s=63e6&id=uzuu.m3u
