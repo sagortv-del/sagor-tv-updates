@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
-https://alixbd.com/playlistconfig/proxy/m3u8?url=https%3A%2F%2Fprod-linear-media.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla%2F576%2F576.m3u8%3Fhdntl%3DExpires%3D1793344804~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data%3DeyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature%3DAQ4CWUlfdSehSeV3sE2hY6Db6VvoMSdisBtcFe-OaUMTNuwpiK7Bf6wQYH0ymt_r88_Ay4QR9oq_aroM7zy1r_ywt0UP&cid=104956936&src=1&variant=0
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480
-https://alixbd.com/playlistconfig/proxy/m3u8?url=https%3A%2F%2Fprod-linear-media.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla%2F320%2F320.m3u8%3Fhdntl%3DExpires%3D1793344804~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data%3DeyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature%3DAQ4CWUlfdSehSeV3sE2hY6Db6VvoMSdisBtcFe-OaUMTNuwpiK7Bf6wQYH0ymt_r88_Ay4QR9oq_aroM7zy1r_ywt0UP&cid=104956936&src=1&variant=1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
-https://alixbd.com/playlistconfig/proxy/m3u8?url=https%3A%2F%2Fprod-linear-media.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla%2F160%2F160.m3u8%3Fhdntl%3DExpires%3D1793344804~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data%3DeyJzdWJzY3JpYmVyX2lkIjoiN2Q2ZmUxMWItNzA1YS00YWQ1LWEwZjctMzkzNDg1MTRlOWQ3In0~Signature%3DAQ4CWUlfdSehSeV3sE2hY6Db6VvoMSdisBtcFe-OaUMTNuwpiK7Bf6wQYH0ymt_r88_Ay4QR9oq_aroM7zy1r_ywt0UP&cid=104956936&src=1&variant=2
-
