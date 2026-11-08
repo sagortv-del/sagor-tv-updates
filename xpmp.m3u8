@@ -1,0 +1,236 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-logo="https://imgur.com/ocyTxpw.png" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
+https://srktv.net/srktvhls/cdnlive_srktv_720/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png",Star Jalsha
+https://go.skym3u.dev/live/09efd9/5c965ffee18aa7555ac3b64fab28ce3092b26c05587a8c3736d673352d5160f09b940577ac1b9bc29852cf1e6beafde3892834436cb1aa5e254af51d80cc32c4128500adb6d8e0213c7db181b2beaba7.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",T Sports HD
+https://go.skym3u.dev/live/09efd9/09ac52c95c6e484092dd04e62dcacc0dd8e5c3975ac816726ee709d6750ed83692006617de8913e3ab79cc44d9834ac5f1134968fb96cfbcd88b1baa0bb4d1d6da1c854173923f79d7814b6ab8ac24b6751332.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2.png",Star Sports 2
+https://go.skym3u.dev/live/09efd9/a4ac8f511f2dc1edfaab10885a3a58d1afb25d7ec0da65c78d057d1fc24131c104cd5213f9dec8b76135f7c2a5ea897cde7d4d5bad075755154cec279083e917172c40a00cf800188ce419.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-select-1.png",Star Sports Select 1
+https://go.skym3u.dev/live/09efd9/8cde53687cd35ba6a45c091dd8c208f251e9649f7ead16ff04fe860bd49788171d55651c6df4502f8b79e3818fed31f9521ed138471479e594bc8e0a5c4bfe5d178afc626491dc01f15a02cb137875dc4de3b472a93c.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png",Zee Bangla
+https://go.skym3u.dev/live/09efd9/4d6d49e921f8fa78d3ed7466a456b2eae70daf9d0648c949cdf61b32d16ca5f06d80fbb4fac493a588494bebbfb4d9bd78f214e13a4e30eea0ecaf2c3cccdc647e10fde1126393cb5f8057.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nagorik-tv-90b5d16aaf.png",Nagorik TV
+https://go.skym3u.dev/live/09efd9/f71737ea0eacc112937cbb414b24e2846bf5ea628e3e8ec181a3862e8380fe215b57f8ea464640cbe300c146262861cb3ce357f4f59eb17293b7e315807c22e1b50c6450f22ee301f2c455260cfc7f050b36f3.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalsha-movies.png",Jalsha Movies
+https://go.skym3u.dev/live/09efd9/d5c336ca4727b527e2f92d8ab8d26a3075c4d68be2bfb110bd9cddb374a8207cc8aba7181738794eec653993dead804e2ff031396dcd336f8f5357de3655282ffcb7cb7d1b2ad64658a0f41953a3a78d070ba158885e19a49205.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asiantv-150x150.jpg",Asian TV
+https://go.skym3u.dev/live/09efd9/05410ba43597c9ba2aad416e8bb960a523888f29fe5e7f7dc3116afc764649db861c7b92b77be10666683cf5921607b9c7ed562a5a7056f85ddc7581523130253b9a4e56a63be64636c8da77fd0a2161c7a364c5521a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Back channel" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png",Star Jalsha_394
+https://go.skym3u.dev/live/09efd9/0ed780dbdec4789092808f0472456adc8203c164e5a4f48f108eff725a98d299f9eb0a592ec52c3cc3bf03fa938a51490e86df72ed34f5339763e76f144a62f5fcbb5b696e950df6a02d4dfc47ad28fe450843ba20bc9bf4c0b617e2d807ad35a0614055a5fb5e5e547d266fed1be9e1f0008b60960d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Back channel" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-sports-2.png",Star Sports 2_396
+https://go.skym3u.dev/live/09efd9/7c88786280248e25267506958d83838c7b578acf5b3a717d9bf9ce43ad0a8957c32f3bcaf36a43b14113218bb761edb7a3315669368f25be23f3eed5338f1278cfce4d4fcd6d3202208742489de9bae21e6a2db3242a5a088a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla1-150x150.jpg",ATN Bangla
+https://go.skym3u.dev/live/09efd9/76c3f5c081310b8f30f5a65304428a13b7326eb7284485ca7dceef586247b88032b8c0f22529e5cf8ad21670247b1c39269951db00e67b1d265a2dd1b60194323238b41ff45c9f7d76c7a40d8b3f.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-news.jpg",ATN News
+https://go.skym3u.dev/live/09efd9/95d5dcbcfbd2c93bb38698b10b4c56d774b9a52af1ec8a145ad9a1d62367bde55fe96407df08dc333b65987651514c936e104f4db6068c69be1cf3470bbb8462e2ba1dc3d90b1258c880.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png",Bangla TV
+https://go.skym3u.dev/live/09efd9/c6fd9de56b7f302a68e9cb06a893d112e8b12739b0516f3641224841144e28293258447c79cf65dc807038aeed522eea21e6a372479303efb929b67d22cb5f2eec913cd578453b3e9e3e9016f9bd084c244c09cdb703.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png",Bangla Vision
+https://go.skym3u.dev/live/09efd9/90525cbb7a5d12fd97d7549c33270d92f24875d13719c0a5bf2a12eda9acb76aefcd3f2872e7144650ad3bb61c4f8aaa7c7358cfdd92057a9ad6369eb366c90e47eb37682faae0db32327a65492d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bijoy-tv.png",Bijoy TV
+https://go.skym3u.dev/live/09efd9/eebe42cc3005094b63563878afa7d1bd884b4f6a30240eac1906ebaaa0f472de9b709d65cbcc8d0ee78d37041895ea3e048d8585eddd15caeb397bd679810084490cbef46438ee7e34bec93346623ccf7646feaa0ef4.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/BoishakhiTV-150x1501.jpg",Boishakhi TV
+https://go.skym3u.dev/live/09efd9/fd4fe68bc263e4023ab9c371b1d67f548f4bc4641b389e9c03140dde7a62de48e979c15134cb0ffaef5a10993d83de816db8b56a79034c0ba6372c9deddcb6de99371e66e77dec85a50b8f04963ed65348d35fa227a0.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rally-tv.png",Rally TV
+https://go.skym3u.dev/live/09efd9/5970b668273c01b0a29d4494275564bbde74fe7805adce4988bade9caee3a6d214e395282650474dfe2deebd5326a910e2a6186a13c22a5b5d5a42460d943eb7e9d4971b86434972265ca2f33058e76a2f1ec83c2d240c27322d10a6b11fb8258b03aaeee67cd26c.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/real-madrid-tv.png",Real Madrid TV
+https://go.skym3u.dev/live/09efd9/cd44bd3231da5ede60c73a501c9cbea4a51f60d9d625d0b8c9d8700a676f79d4950b8898c3b4fad9ad10219a74e550a291bf47fe89b982f567e6f8254e692b5dc01b77c15fb6c8d2e13def194b2f07db459fe5bc030361add23da3f3895509.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/realitatea-sportiva.png",Realitatea Sportiva
+https://go.skym3u.dev/live/09efd9/172fadc400f975690b9773305cf90bc53b3fcbeb74ab5a1feeb47a7392dd13aec0a96242d381156de6b8efed759e9977b616c2b33001b7057ba7695eff017b4f91fc47bd7701e9d327bb57b4b895538819e2a0757bf92560e2d2c8720a1c559c6b.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sky-racing-1.png",Sky Racing 1
+https://go.skym3u.dev/live/09efd9/65cfcae797206a3f01e038b75772bfbcdf861517406692ab2f7efef72c99373afac045c7fcb3e88f9f813607d3778ed97f8357af5cbf2a467a24253471ee86c57d8a8020d46fe4f2975d8af02d28509a90793e909eda5982e059d48c417891f98eb9114d1a1ae3d3e3ef.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sportivnyy.png",Sportivnyy
+https://go.skym3u.dev/live/09efd9/617901d45cb0dbc3eb912632344749b1da33690f3ecaef049cbbfac56ed46abfbfe48b524227a7ba358f0ea2348d9e74d25b23aa7c91c25053e757301fc4ab3e1627d7e9c328c45c0a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sports-grid.png",Sports Grid
+https://go.skym3u.dev/live/09efd9/d9dda5c0bd56cbe4e2c10503510b1e0ffa53be3d55779eab67b6462c0f89b0b87b7d2355ddc1b462d2da4679c2ce453aa340f0eb180ea868b87f58f19d63d83eac601c5632ce7c607dc9e1a5.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/swerve-combat.png",Swerve Combat
+https://go.skym3u.dev/live/09efd9/6322a7fb0e91389c57b7d382bda28e11e0f0d6d43a82d9aa513039b3cb238dce221b11ebf5eec6b4a388a8f62cd075ffca40fe91c90e5ec536ff0bbb83d90f6194ea1945e5a640a1233ae8e5053887269b740ccab15bb909d0208b150b5b2f3dc1f52d24.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/t-sports.png",T Sports
+https://go.skym3u.dev/live/09efd9/51493be5ee31101781b9fe07d32d36e3918a816a866b6181d728b9a850dbb5f30dad9e895b000c21d0c395cefa6ed373529366e258c19dafce30c83e30bab0c3262d719821380a5549b3b14641bc491dd371daf027e101978a9fec0558.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tapmad.png",TAPMAD
+https://go.skym3u.dev/live/09efd9/71c1433301a68384fbe3d76bbf0f9c3cd4b493da238090856a0856b556532861087c7b8c03dcb546687e6425e766fcd54df7e8eb92b016b1a7b10dbb4185505acf78530d0c980e097aecee05630de53847733235ff09970d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tr-sport.png",TR Sport
+https://go.skym3u.dev/live/09efd9/2748ec02004b5575caf57a6f9ab81d70e97fbe8da4914cd5587971bf3722f6031fd2feadbf0b2ad78b1edca4eaa7b80eb4b38a79037e2a4ff138a23f2f27e3ca2b830e45e2da741eb1337089df9da3b3.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/trace-sport.png",Trace Sport
+https://go.skym3u.dev/live/09efd9/62269c1e671d4061d44540c1246ded6125f3ccc2eed34e90017f477c6dafb05e79b70610cc01a1ec800e7a81f2a07d9d58cbe28ce99d60b13d3ef310f8761e569ca838d0fdff12368435fda74cd1238d79f8a093d2d00e2666.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tsn-the-ocho.png",TSN The Ocho
+https://go.skym3u.dev/live/09efd9/61e4f53d9c757ffd3a859034627b586e83c35f7d0fc01e66364ce5ff3b498060a59362b0a869e48fc1eabb3aa38b391f640387c3f0b0e1175a126465bcb563c182a600cc38b87b992c4d7b071853be385f4d55f507516748d4b38cbe1e3452749db71d0e255eda9a41c287b4add338dbe91b7b80aa848ec2094d4831faa99473ec0bf26473750dd48aa3fe412bbf2882062b79813e3b7d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unbeaten.png",Unbeaten
+https://go.skym3u.dev/live/09efd9/08adfcb33cc88e48e81c08341291c8a151f3993ef03c0ed9fdd2d9e28b323034a6c1ec16d40109824ec1d2b4b5283c081511d0be827fccffa014f4f5d03ab030f55265b1d75ce4360cebb074875861.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/us-willow-sports-hd.png",Willow Sports
+https://go.skym3u.dev/live/09efd9/57694fe864591ed1684658ded7aa590b52b30d01cf7822976734965c1e1f02ccef5c32804ddf642f5bdeac823b0ddd68fd22f8f9897b0f4eed71d87271b6d8d8316dab63a636d1b802c8.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/world-of-freesports.png",World of Freesports
+https://go.skym3u.dev/live/09efd9/9aeb7274f9682ac3614f582a7ba35b5878a98eec2a5591b8827d1554a0d69c69c9044990234292785092c1c147fd4548773de6b38065eb7fb1bdcca21ee527f2e10706a8aa6c63f53fd6d80c452c5c35bd18e071a2543d3f656352af8b7b9f6e3d9dee78327a8dd3.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Back channel" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png",G TV_240
+https://go.skym3u.dev/live/09efd9/0be6b6684b29fbc3ac01975c8e2858c33b612c2ea191af7b8e5827f7ea8b57199c61b3b6b24e3f0e22b1330e09b685ebbcd954472f0d12a9af93a94879deb24f7c2f2b2d3c2a167f4cc88d47ad8d2d2cc9eb2c871fc51a862504c3b598acbc3bd3f389c9b74a067c17663e818633012e36fd.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa-movies.png",Star Maa Movies
+https://go.skym3u.dev/live/09efd9/16cf45a15bf3c7d4b7077a98f30f0662a0ade5979ecd864f1cae8a58823c111135fd64ff7c0f6e76a8d6ca305c55db0ce6494f9f4a0b81b451b61723eeff92b2e1278fe6512653eed11b540db804735457ce6e97a6f35b162feb182cc3fcc775651d6aedf7b4d193189388dac38dd5548dc3b79b06.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-2087bb49.png",Star Movies
+https://go.skym3u.dev/live/09efd9/a3469bffb91cca3206031f29007a0e0f9840aa2a43764ead658ce695393653eadd0f1a718dc73913372dd30dbbc2afb0fe9c6f3db192c49b9a48ff70feb0936b0d932e3f3b49a30d8ea02851ad.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-select-37627406.png",Star Movies Select
+https://go.skym3u.dev/live/09efd9/17b90944909e0b9c0cdfe6f9e8cc6467b5c09a42f5e291033d7d91c1540d2c33970ead971fa8e2059ebc9ac295beeb9b43c25be582f94e0e1d98231c23cf8dfe6b867b2947dc9188f52b33d638c31b9bc1.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-bharat.png",Star Bharat
+https://go.skym3u.dev/live/09efd9/e2da2fc59932eab585df8f1848d4d90038a590921610e246cf97124cb2cb68ebefdcc7d485df9414239c0bc6c32b47459279899f13c926da3aa1d46fdb5562b01033e7994d1b2b540ddb3e9e42.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa.png",Star Maa
+https://go.skym3u.dev/live/09efd9/b41f24b6b83d6dabf0298275828afd96b84cf60520c6413aa60d64caa1477f5e64174fcb6de03c25c98e4ccfab68695044c3079d321d240fd28b286f990714b35813f1ac81190abf60e53001fe36a8f6618fcc0f4da23d450955166f6ca7e8a464872268f04cc7f98e19cb33f011772d34439737.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-plus-166000bdde.png",Star Plus
+https://go.skym3u.dev/live/09efd9/93b5f9c3717b9e9aa5a21a34e9bd9af940f776a69b3da6f1622ac9a8fbe83bcd81ad0321a7202a688b5f2db77ff01dc2fc78297681a0202ffe3e5c86797cb0fd7e9f67beac556cb0ab42fe.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-pravah.png",Star Pravah
+https://go.skym3u.dev/live/09efd9/6a15f2e5bd423037308d2ec696fcf10b25e907e410d7ef114066022c23bf5de1f5ea8edc07260ff1665f4df3b96be794c4b5f4f087029331185ea2095039e560b097586b94ee40c4cc3fdd481387ae135b101684b39c064cd0ae29c5152dde1f17997da9e40cc2cc734361cc0d8b3dc78926feca67f8.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-vijay-576p.png",Star Vijay
+https://go.skym3u.dev/live/09efd9/1658a774d0a57f5628d2ec4b05463d2081d0d272238587771928c7f89ded151ecd286e4c51b56b4cc6c4120c8ea66dd6f38ace3fc5e510ff1d272be6c4f6212c8e336b2f5dafbec8c2f713d27cbf0f0467f05b344065fc4cf5ce457179ea8e4911801747b1963c21be44c89c67.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Back channel" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png",G TV_242
+https://go.skym3u.dev/live/09efd9/53119e8855d9984a29e42bbb5ddc3ac55f8121096e5be5035cc243c0aae849f1ad956b5b0cd3cb9399297ee2dd54f8a641d0e961f238cb0e1955ccd8c01d4a22e9d20ded9d2f14f812050015921ae07535c76a28be84fb.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/0cff8323fa888ccb69dde38a6880f150.jpg",BTV CTG
+https://go.skym3u.dev/live/09efd9/7332f1b492f7a872cfbb79f80695f9c7a220bc3b9f45d241a0e6339b4785ff780a754a29156ae91ed740b0367199ce56731a059131d33658b970c3d8bbb4f4bf31a5e6fe302a0f00eaa11642f5e290506dd7386104fc.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png",Channel 52
+https://go.skym3u.dev/live/09efd9/2a99d406ffe1bb6407e8e385d1b3715f221b22871a0382c66e997d40f0544c9f822da95d7f4230d9aeb93ba898171c016cbc47086fbfb1cb3aa6afdd3b2c5aeeb3803d0c4005712e1c3615.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png",Channel I
+https://go.skym3u.dev/live/09efd9/c71943a38455042b8ca4b23d47c57a994dfa65f1fdded43fb3ca632ccefdceba04610ace99e35017e5097caec0392a1790fba72ee8dde5e0b45642de20731b57f465f648e42b0b5774c4efe9430c2546cba1a0cc64f7.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg",DBC News
+https://go.skym3u.dev/live/09efd9/aca11a4e468f227de40f0f218dac5b1dc07fc27bd8bddde68151c47c25b55e7cb808eb948f494f669ca4878071105c8d1e5fa3f9475a788a205eede2076fb2e8a33b2d7a727365e08e4127743d57f91598b391ac837a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/deepto-tv.png",Deepto TV
+https://go.skym3u.dev/live/09efd9/3621489bffec4c3c54340afc7aa94e6c5ca7fd0d98d2a835a63020a72181fe49c4cd2c9bef21d34895c268a9da5c0fdbec9d380a6a27f5ffc1fe1086d4b7fccf2e0a7249934b64e01d95261e1ed77a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/DESH-TV1-150x150.png",Desh TV
+https://go.skym3u.dev/live/09efd9/40e34d464c794080d3a7fe93c9b674b8ef562e416788555c42cfd8e274245a7fcc3121c3dfdbff2d28c2427d5da4ca486fc1969bb82e36c0306223853b4b1c11c5bdcf99f83b37e727fa65a9415eb347948a1bc49cba.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/30554e50000b538aef52a9181052af56.jpg",Drama 24
+https://go.skym3u.dev/live/09efd9/a0e70a74e83f6dfd1441343758afe4ad6fd3b181a82a9d7c919b8eb49ab20f9be8cd1b52f70d511efd21bce3b79db98ff407326a9995dbef6225727bc147aff488fcbcf44da296907b0926cac7.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattors-150x150.jpg",Ekattor TV
+https://go.skym3u.dev/live/09efd9/7e5869e70926276720c541fa52b734385c22b39fbe4e474259e9ff2e04a6b32ce1d173b4c7785befa7c3363a56daf4298a609ba8d2b2098063044f9e5891e98236f5ea6d949e5ca39cd18aa80bf33640e469e2624926.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekhontv-150x150.jpg",Ekhon TV
+https://go.skym3u.dev/live/09efd9/e595777ac55981aae6baa8cf33fddd2c94fb2474b585001811ec335109694e5af0a7aaee986bf76be4d6f8af1b21a8edfbe88ddd09546d0ad5ebe51c643c4f77c40635264216cc7a0351e6b1f0b141d8362cca0b6f67.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",ETV
+https://go.skym3u.dev/live/09efd9/d2e264f5d3eba7b664401284b5107086889c5af1f43af6d8fce8701663a6483688b471085e1b6e959e056817855cc51a7f98208780504d90b061dcbe988eb3000c9af8f4f42140e9be2348f3dfdb.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png",Global TV
+https://go.skym3u.dev/live/09efd9/2916b4df2e9935eadb87268bf9970ee89b208d65f1d0b404737d8ae5c2e2d52cc32298e58b38d2d6bf2daf20ace7fecd0af6c40a5bf552b0af079799e68743eabab48054af84b19e199c9868824703f187f4db90eca7.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/inds-150x150.png",Independent TV
+https://go.skym3u.dev/live/09efd9/e5357eaeb8827206d9c2d8b97766316f35ce8059187ab50cd1fd119906e19e864bd92c7faba1033add15a9fd61458fd0b96b529a4eab848be9223322ac851270cfb5988302409a14b414e78627f341c14b4bd1800017.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/iqra-bangla.png",Iqra Bangla
+https://go.skym3u.dev/live/09efd9/510a6a4ef4fcce2eb4b5f56e83dd056f9ba6918676845065c7855e9a34a069775e2cc23cdca5b917c0f2084a3d3191cac43f832fea58345ea453a97b66fd77bac49df064d38210f6a481.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-150x150.jpg",Jamuna TV
+https://go.skym3u.dev/live/09efd9/029634ee6c79efc5f495753edacd51023790526ff230ddc05d3f2666e12b1695f682980b0f9f2436079a102130936670a5223ceb2b3dea8a82d7edfba0bf57883c52f11b4cd5cfd8452fe62bc6ba8e122836e919e8fb.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/maasranga-tv.png",Maasranga TV
+https://go.skym3u.dev/live/09efd9/a75ba10320d0672e7bff6d96ebd0b3d9eaba4bc266d64cf05fdb83f02a8ead01d76d2ebb7383e672d8bb9a0638b3049dedd5edb467daf3b961140ba41135017dc29d66e4854e75519125784023.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Islami" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg",MADANI TV
+https://go.skym3u.dev/live/09efd9/ffccff6583969272a3d8cf8fdd3604f6da34850650d333ec5dad31da3e11aa487f90dba40368baefb556f920be432be6b0cb5cf9186d8a3f9633a20a338c96b7d0c26ca5e9469e1fe8e4.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mohona-150x150.jpg",Mohona TV
+https://go.skym3u.dev/live/09efd9/626f2a9140f53ac6d825bf7ba739c57f89e8e60eca073ea091664b956b5029dd3f4cccbe5b844b55648d42284ad8a4c082393de2f428a9f55c868698a99b706937a4f82c5c7e31114fc7a07a0f53d183f5db62e7c0ed.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytv-150x150.jpg",My TV
+https://go.skym3u.dev/live/09efd9/6dc95ffc533d8e14c69ee0f365992e9e97e3f3cd44562faf91f8edf69befe1d63c95f0548afeee3896b301c55963eda8837293fafc4a78b8b9b02980aea49a02b412fac467b4f7976d613e7e3f8510935a868f0b64f2.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_a401495935874d01a5dcd992c40c3a2d_playmist_news24.png",News 24 BD
+https://go.skym3u.dev/live/09efd9/4d69185642eceba7169b0bc27e44b191983d48702e7e4f78f306207007dc531063669cbeebc9b9d75fda8dd345152ad04bdcd5a0a414acff68b5e87def0b7403ea6f96486108ae9bb47a9c3e1a5099621a6dbd37ff7c.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_7e6104384dddd36f39e1a27fe0a61059_playmist_nexus_tv_400x400.jpg",NEXUS TV
+https://go.skym3u.dev/live/09efd9/31941f2e5dcb406636d60e54f179eee76e834affc947d8ef1f4bbb7567a343cbf17c228e1de4efdbb1fb9d374f0e86eb11bf3a5109566ebe6e7ba46a758c3f23eb1bedaa2f64f10322cf.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv.png",NTV
+https://go.skym3u.dev/live/09efd9/4670ee70fdf73f8bab4bb713bfa5fe1c0d2f8dcf1ae521d471088976420ac129b4b70abbd22818f07e437201f1b0e528d3058bf7eb58487681be215414ab340c9ab0a62b6daa166c53964f2c4f6d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv-europe.png",NTV Europe
+https://go.skym3u.dev/live/09efd9/539f48aac355d00f12da392c497d865e7dbfc27eb823e64cb54e70bbeb49ef0d9c9b00dc07f2a883b4f26f1e5de3075e1fdcf42cb0981b8f7ed2a1b58d03c1f42c65e30a96990f6d4aebeb68a9e3ddf456476e074dd092fc9f874a19b1d562701a33c6b4b3b59460cf00c399ac2d8f9ced4d9b34475476e7fb98135c46750748d4ebe77d66761f7287e30154873658caa1635a37c5a7c0df89d52adb911ff50b3f71e5345d6ead2c8d26ac370eb878b37d0b426e6124910ca3345adbd0e8112774ef5e7a07ce03.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg",RTV
+https://go.skym3u.dev/live/09efd9/e169a82b45b44f1d86528adeb558500dec875961f4abd9995eddc3d6d8c5cbc01caaf62cde872b02b30a9e6e60965400d8594cf6206d71e1702800605ee39519d6ab32dcbd3e478e8b2849ece5c4.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/satvs-150x150.jpg",SA TV
+https://go.skym3u.dev/live/09efd9/4aef27f7aa78edf328c74884b888064083b41a7353b1036056fc1306cb1cb095e35d5d211df73187622a126cddcf54bd9164e92582fa132121b83b0baf794432a6d53d04ea452e49f9f01a66be8a725229662518c435.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg",USA TV
+https://go.skym3u.dev/live/09efd9/045da3be05d5099ca20261ed541235d1f16d7e8dc6e4ee26d5c004edfc2ebd6ffd76779516f0cc9333532699328094e63663e2249f48bd68932ac10b593941176834b493d065336d97cf.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_a806cf1e3ba0981e00a8f340fab8a6f8_playmist_abc_news_400x400.jpg",ABC News
+https://go.skym3u.dev/live/09efd9/a0d0d0417497972302259cfab4b2c0c363fe037d210b14631893045d45f94fc9686b5ca03ea0f7b9ff948258c15e88ea7d0b6c142709a0c793e55697acf8829f72e8934e5c1c29401313100e2877.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_a220fac6da08a832112ea4603c9a3c33_playmist_accu_weather_400x400.jpg",Accu Weather
+https://go.skym3u.dev/live/09efd9/53579a24223713f968e95ca8e050c9c41fdc7b998ff28ff298f915fbcc2df31b6c75992df3f476aa5f02277208842552cda1f82c2307dab2398211188b6f1a8bea02b14105094160e76649171497f63256dbb5a8284b247857e269565cf054ae6235030ef73f458a6b3b7804612827ec99753ad34b032f45f3.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",Amc
+https://go.skym3u.dev/live/09efd9/6a51ebc16b95332a12eb0cdc64cb113ac362960aa5620c89338d3e615c9d4f9b4891aa009a081acc3a015b7b50704599ddf760beaae912487a326caecee5aab32e0bd81c34.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg",BBC News
+https://go.skym3u.dev/live/09efd9/945dc22c4bc450557360c2195b43a62570727d271dce1179d6947aad20df276a37563077d4395ec96fdaf638e570c2d778641fd78978e91e97b72d4bf8439059235747cf82e1483019f3.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_d52623f16135dea6bd76f7bdacd4b886_playmist_bharat_samachar_400x400.jpg",Bharat Samachar
+https://go.skym3u.dev/live/09efd9/4b01011c0dac1c713044a82450bb9377f7e26377931c4a2f5cdca343ee1db2caa63ec62364254a3ed00d2fd02250a79a35ea7638083ac26506ec548eb998fb28b5eb882f448e22488f5a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg",Bloomberg TV
+https://go.skym3u.dev/live/09efd9/03d54552179bbbfeb88e7dc113cddca837435aec60cbd71e845d2b0328e6400b3527b1c7b0930a043ef2e2241896aea00c5a94b274a7e8a76a95761ee90aa3382dca019435693ea59e757f29b2.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/local-logo-cbs.png",CBS TV
+https://go.skym3u.dev/live/09efd9/ccbf044bd37945adef3e956744b8c91d4111d821aed3d3b50f778b146fb2288abeccecd5ac164c02580d9407e3d830df9d8a5649019dba21ac9f63c606511ced2154c2433b09fec99875.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_e67654cc3d37f4eda1a16709b2b88f6d_playmist_cnbc_tv_400x400.jpg",CNBC TV
+https://go.skym3u.dev/live/09efd9/5284a8a7f0a5527e31f1fe169db703f16dbbb336e303b98e5358b7c98008fd6eb74fc401e6f09ecbe7a1e98511ffc3185d6124b2b3b525e7bbd7ed19b7e24e1a05e4d3c53e32.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/local-logo-cnn.png",CNN
+https://go.skym3u.dev/live/09efd9/064c51649f132914748a27f9e6c323e755457d5252b6e2af704dd85c65f11e37840f11efe8ef1bca873e131195b0672ba997a656ddf4b75cd44c0f0aa082051401a4809807.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg",CP 24
+https://go.skym3u.dev/live/09efd9/0c32c8f375750064dfe1b79dfee62211f61bed347835526ba9f2b3846f88407eed2d1f2f0bf239358d07504f37e809b07dcabfb0db77d4fe285f449552ad356d9850483c8477.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dwnews-150x150.jpg",DW News
+https://go.skym3u.dev/live/09efd9/47ed1d01da90c0b532c39e7fdb28c94bd60bf8b00486ce9e511c8cc60b587ca6bac6ca72001952a520902d298f4f50124fd3506ca18ef5a833264884ef370b7ca968c95c8ebb9aadd523.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_fd05780c80bb076f35db9e243ee2d5f7_playmist_fox_5_400x400.jpg",Fox 5
+https://go.skym3u.dev/live/09efd9/339a9b6bfac5a621309d6156adfea30ef967d504a82eb3136954295aff1273f6c5ccf7a37b1125bc34180ce320107cfd8639a990218145196a43bbdd57c8362bd18bb237643a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg",Fox business
+https://go.skym3u.dev/live/09efd9/ac0eb5a686d26026dc4054bc328d9d058b30d5015cf0b64fa75389fca940721034b25e096a00f8d24cd3419c450c1c4d4b3701da8ccb9b049056f1baf3eb7ba78edeb8be0ff65ab8d07bb99018.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_8d6efb719d7295f50d5cbb49e3a11a0f_playmist_fox_news400x400.jpg",Fox News
+https://go.skym3u.dev/live/09efd9/99de6df1ae852ca1f75e811ea6598125345a69558437ecd30f829f326d455e13f90e246ba6837c5f72bd3e272296c5202d11154919bc202130bda4610119420d5c28fd96a76a5dcf67.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",FX TV
+https://go.skym3u.dev/live/09efd9/dec30cb90c923c1b52718945690fa66b120ae9891f958f7cdec77b9c73c51d2322397dbbd15ce151cb0eb333bd02563fb723d790e182d6266b172c0304d65f5300e6ef01242a84012fc6.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg",Hindi Khabar
+https://go.skym3u.dev/live/09efd9/be61a2d2eeb9930f09667b8ad822e8bab708bf13a051d46fa595dd57d37eddd9a9a64e309ad03400471854154b330c139852031530f45be89ab532940177e517a23d6ce72ec35e149516c5667d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_31a018cec62068612c9dc5efa6b13856_playmist_life_time_400x400.jpg",LIFE TIME
+https://go.skym3u.dev/live/09efd9/d3a52bd334908f6409c5e703c68eafa66dd26feeb069826954e71ffa487f8003fb97a0fdd90734549850aaa7542b7132ce09b16b91d7b4e90afc51a8fe14879cc3a19d672a2eb5ca2d84.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/67dd95c4ed1caa52d3cfec21c4177782.jpg",MSNBC News
+https://go.skym3u.dev/live/09efd9/ea15ca435641e62f49f40966b3a7e1c225c18977ad49d562fdeb0e3d92c4970af1d86cc23a0bdc87efe7c36df06bec53ad32e9e2778466aca5d6d25a0d704dfe724a4ccefb2f09.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_79fbc39a1e2b6627305b440da7c524d7_playmist_mtv_400x400.jpg",MTV
+https://go.skym3u.dev/live/09efd9/5e14f3c548c1a96a89c39bfc178173b4bd84032be038de03c28340405dee4b3f3241ff4014ebda36f095a09d8701e33a1207f30057fe46df3dc3e9ff53a0147b71a7786b04.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg",News 1 India
+https://go.skym3u.dev/live/09efd9/6efba46d270ccdf56382fb4ec8c185c199431ec012b14eb98a3b6a9669843dc2a6da2cc090f3f4ff8063e82bc0b5f76a611a1be4b250c541f528d407c0aa0e2db937c0ef1e7934fc6ed5.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",NFL Network
+https://go.skym3u.dev/live/09efd9/93af8def74475aad7629ff2dcf2738d651b2c391c3e82c5676dbc11f775a3a27a4911b7892524a85da459aa77b211213326a948f9bf67e9bd800f46399b3a15722659e6d89.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_245b453c334a625e5049ee95e8a1eb13_playmist_sky_news_400x400.jpg",Sky News
+https://go.skym3u.dev/live/09efd9/527f14eec5c3e44023f7850a483c78fd3d60960ded5b92b65baf353d47336c53e21c6cf7e946c62c3b43491f89b478d3e33f66dc50ee53541d47ea0229121f6b3d7a96b02acfe41f30.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bahrain-sports-2.png",Bahrain Sports 2
+https://go.skym3u.dev/live/09efd9/9c014032ca3718dfe8479888b83a2c373b42977fdc5e86afa7b34986d15bba0419129dd815b2262e78e3c5db13549413aad3caa73e323d72b9fc78585233af06b40ee6033450bf96f01fe8950c6d7d24.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cricket-gold.png",Cricket Gold
+https://go.skym3u.dev/live/09efd9/2520e511ea45dd62bdff6008e59459c5d19e4055d1d34729f92370a543c867d7f10495633f258c5685fe208a448f0cbaf510efbc650532b16f5ea2aa7456e312161a9e633fd2d20984cf79394e9c1d750e710c78a80d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn.png",ESPN
+https://go.skym3u.dev/live/09efd9/85f9ab650ab260825608ad0d07bf27be4cd209d9aebe4ee470712bc12324f9dec25bbd3b1588240d0da69aeeed430a5345b64aaf3b09275f7af84934c0335c8075cc3b7e9563.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/d59971a29af79ba0f40aff4c18d29aae.jpg",Marquee Sports Network
+https://go.skym3u.dev/live/09efd9/bbe8973c47fd5f451ced35c3b6c16aeb4ac621bb48d5f02e1ad866b9acfc5293634a9995fb655d59439e2bb1ccb192d807603b73788da7328630c7ec1f8e6934a332e9c710b7c297ed1835417ff9b14938dacfa365f5.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ptv-sports.png",PTV Sports
+https://go.skym3u.dev/live/09efd9/ea74874dba5288630f70f91449c895a1025f8d82121569fb3ccf96c70cddfbe2c9f4934de39c46161b3421199e27f0b10cd38ac8c25eca30323ae44b8fadaf4695e8d9d94d34b97229e10854bdba84a4df24.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sports-first-tv.png",Sports First TV
+https://go.skym3u.dev/live/09efd9/a473d152dd57c6a667104b0220680105f09954719c501024d85295c08e9cc5266163f436e0a4e5d6aead647c7419b6fd849b6a93d3b9a725412b8708a27420db6121316c28f514c877b3795c5ac0bc8dc98a2bce811d97cb9714b0e2710a5e281037.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/e190f393ddda707426d58a0f295bd7cd.jpg",Talk Sport
+https://go.skym3u.dev/live/09efd9/9d207ec6c70325dc910d2438976abfc624692872b02437792f8334eccbda68c7065a6dac825993e4b38686bb9efda7a92e9104199a6ee5f0d460acced4fe9e8a0f5c6231b3068bde488f5f.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",TNT Sport 1
+https://go.skym3u.dev/live/09efd9/ea72aab263968bf79b997dd425f68fd02427c2673a49d1a5fe9b7b556a114644554631d82ce9458779dfae6bc1a313b9a309a07877f6eb2f65982d16b52ccfdf42286744a9a6ec2da66d.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",TSN 1
+https://go.skym3u.dev/live/09efd9/9ba15ea40ed35fb59c15e2da80be88e1efd2b5392addc969fb76dd50d6a9acea36f48878a162421a6aad6ca8be265e30ad12a60c82f5f040f446614e8852609f728d1d4ba1b5.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg",TSN 2
+https://go.skym3u.dev/live/09efd9/09a68330c38afff29b8cde9742f6f57ae1db8d30b1e37c127483c9f6bbc1d4c27d8aed911ab376f8b1a373828d6e88b9bc3e64073182c86317bcfd7d600130405c8fdb0d17bc.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg",TSN 3
+https://go.skym3u.dev/live/09efd9/e5e4ae3d0836ff1d3f7d0b2f7ab9000d11ebc5b29c618ddd376f95e53f74118ae85282667eceb83a233da2e34fa1be8f026deadeedfbbe99a12bbfe0afe88403e904622e2e69.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg",Willow Sports 2
+https://go.skym3u.dev/live/09efd9/a7021b32e9111284a0f17daea9231405e863913d97f3113de00b9243da7a277fd99f2ebf68ae1b6a45369487b12772b0fbe6c6514072792439423166ceb5f3a93214237a0915dd6b72.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg",Willow TV
+https://go.skym3u.dev/live/09efd9/227cdf0baa65387d3d874b8bd4da3a0662f1e44efffc1e40b3f7eedc3ee884be402c20969a0dff42a6049225265f4281ceab2d407e538b967f8d88e7786dc9075daf387165deb3ecebbe.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_175cdaa74b4bc86d10e5b9d49c50b8f1_playmist_assam_talks_400x400.jpg",Assam Talks
+https://go.skym3u.dev/live/09efd9/968f695b921f3706f3562c1430a1f511ec0ad1469ecf83f9c59f7fb3d56adf96c0c5e20c8e32e22293c3eab7882641c226398c61f7e607ac41b96ba4e94ced83d749609d17fff8bd8ae7f40a.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-bangla.png",DD Bangla
+https://go.skym3u.dev/live/09efd9/0bc93fd9bb1a0c8b03c9872ba97ac21592b4296814247b557bd3eaf16da2554e3d2ee50845dadab15b37cc4827f3eb00fe5c131d14fe83301fcd456ea8e164e0c63c38d232ff0e094e2f75163a9d26731eb8e5b9443e1228be08218ecce7f4d9b201d6c984a1d390f3026ae1c9c28d3eb9a39dbfef24.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg",Enter 10 Bangla
+https://go.skym3u.dev/live/09efd9/60a10904658d1c0bbe5e9faf8cc651137ee2498d452a3818643c14004d52443fab79f3ae261dc971dcfea199b0383b98315ab3cb4266c5af4429cee066f8f1a2bc48f27a6c4b618d9cd1aabbefb0154f26cdf4.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg",kolkata TV
+https://go.skym3u.dev/live/09efd9/1bf27fa3794081ae1704ff18db56ac9342707baec243890394eb5da0aa11d33882319ddc348634f25182cde7d52053e60d0f5be778cc44ff097e61724a3e6a8906649e3284abb3e95cb491.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sangeet-bangla.png",Sangeet Bangla
+https://go.skym3u.dev/live/09efd9/4f42fe4b145a2b4d1abc807bee0651c424ee4a38ad9662cb416781771d8a87968bf11d4f24c71f9ce722e260950e5ad5d7b4c24d35656f4ece57ee7265f15c44a19187fa5f5e628bf7fe.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg",Discovery Family
+https://go.skym3u.dev/live/09efd9/8cd89c29bb062505d91077921a1b18ee11d6caee6f955d59c3aed9a8928edd65d90cc7f91554513b68022cb4752f575c49dd47570a3b6859040905cdb36c82675bb72f7cc3169c5fe425e0cb820bb93fdb.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/images_92666995d4995d2bb46b92598d2b3e48_playmist_disney_channel_400x400.jpg",Disney Channel
+https://go.skym3u.dev/live/09efd9/228441ab578369fdbc78f6d2435986d85e5f184ad02a1ddf3fab0ea06ee6f8e5ea8fc0bad2d550da5f0c17faf7258bebaa8b39a09ce69c0cb5e0e6b0cb607de33d95370fb56d9aca.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/a-sports-65a3e1d8fd.png",A Sports
+https://go.skym3u.dev/live/09efd9/faf3ec1bcdc11dab32ceb80abccc704db5f9356e598e11ca804f246d61ea3e3cc1991caecd512b094e29c99a5fc1478f79fa50f91f54a68402090a94295f68627005860216776bd9e8a4f4025e979ad399d402cf6b5f77e87fda61377455028c60c26250.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/accdn.png",ACCDN
+https://go.skym3u.dev/live/09efd9/76018e85daace05f48e3ce5743c00ef9794ebe97ec1b259db4eaa064eb6584b13405bfa5f6f525bb67c2f00e722f007fee1b513b1920cd4c8091eed312146858be3fa1887b2678f3b4efa4b6dc14.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/aci-sport-tv.png",ACI Sport TV
+https://go.skym3u.dev/live/09efd9/dba2bb55862e3db2db3a1db8ca3e625d15858abf309f3bc66926895970788c6cc5dc0a6e94067f88d868ebeea4bebaa9d4a606ed80a28c566f25522aab0b8776d31e3212c8aafe94e0d36f0827c0915afa3afdd20fde59c68c44db306ebf5359d088d9dbda0852f922aff288.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atg-live.png",ATG Live
+https://go.skym3u.dev/live/09efd9/4bd73a4813792addd67093d90d935aa7bcab065585da1a2b6827458108241ca55e826ce2454961f3e83db756d9f828c24ff9abccef774db5bd163493fe48fe1c2c5576276aec1b785f57a2241fc7682216920f88911108a4c25af2586e6cc179cfa06683196068a93eee55149d2ad1a0216d1a893ee763af0c481b2f57f09b484b03ee9b08953b.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png",beIN SPORTS XTRA
+https://go.skym3u.dev/live/09efd9/b9001e7a398c1d9fe1e0856127cc153cb50149efef8726607cb1bcd48dbab0402d8107936cd46e9188362004a99a17de675dc4d7b2a184f1594342966075b7fad0e44f076477880293923ba7e93c.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra-en-espanol.png",beIN Sports XTRA en Espanol
+https://go.skym3u.dev/live/09efd9/8b4e57d4ae580dda3c1913aaf47f2ca0569ecd1972915f9c454bb3102adec57fa8fcf0e4cf7673a9146822e2a80996f95a3637b86e94c5797d0f2c3f537e75f90e94ac71375afd1adc34df8aeb03d75b92b5658886eb576efb8301f0ed61.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/draftkings-network.png",DraftKings Network
+https://go.skym3u.dev/live/09efd9/00f72b6d5e3ad48c729c2d9a2ab90581330b50b08d4bab67eae94a548ac3dd9427ca5b89e841906a40e0a948e4b209565e2167a05dfe7345901dca561755bfe8062ac5b8403c4beead8c122ada242b4d01e3afe4b234a5ee530a916e4f2efc49ad37d4d2d4c73e2a147972b05a1f7419d5da323bf0b74f6efb5d64f9934629cb59410eb96feea94f82351f010093d8.m3u8?s=ffb4cb&id=xpmp.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/espn8-the-ocho.png",ESPN8 The Ocho
+https://go.skym3u.dev/live/09efd9/2300e0103cba6383e212c2d81eacf9e13d430d313be1b7354cde7bcbbba8bd7236ceacf0e06fe6a44edc9d33068f523f6cd21e31bcb9f888d61c980315904e2c5d7b9f3dcef388b48081879a5a783b19e241.m3u8?s=ffb4cb&id=xpmp.m3u
