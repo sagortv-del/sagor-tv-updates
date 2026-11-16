@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="Live Sports",Finland vs San Marino - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1511/ENG/master.m3u8?hdnea=exp=1794815969~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=adf1774aa5a517248dd9051dcb60234253bd82e662b8401f249d8234abf3bd93
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="Live Sports",Belarus vs Albania - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1511/ENG/master.m3u8?hdnea=exp=1794815970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=2caf23d1f65db5d6ff31ce0208f5a9aebb883cf49a24d58a7f6da73500239d74
